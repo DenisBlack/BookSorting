@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 3adfc5cb447afc44ba6a3d6bc836f38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 654070585607764519
+    second: Coin_spritesheet_0
+  - first:
+      213: 6722721328937186958
+    second: Coin_spritesheet_1
+  - first:
+      213: -622824473105417502
+    second: Coin_spritesheet_2
+  - first:
+      213: 3847321579925927553
+    second: Coin_spritesheet_3
+  - first:
+      213: 8623660433687699788
+    second: Coin_spritesheet_4
+  - first:
+      213: -7218725457437484233
+    second: Coin_spritesheet_5
+  - first:
+      213: 576108536479765481
+    second: Coin_spritesheet_6
+  - first:
+      213: 5189174025089702428
+    second: Coin_spritesheet_7
+  - first:
+      213: 5143809967798786360
+    second: Coin_spritesheet_8
+  - first:
+      213: 62895781144554301
+    second: Coin_spritesheet_9
+  - first:
+      213: -3412165554425201707
+    second: Coin_spritesheet_10
+  - first:
+      213: -1018740116180099973
+    second: Coin_spritesheet_11
+  - first:
+      213: -1207301355909948299
+    second: Coin_spritesheet_12
+  - first:
+      213: 366390267723578168
+    second: Coin_spritesheet_13
+  - first:
+      213: -2351167168005125423
+    second: Coin_spritesheet_14
+  - first:
+      213: 12725166405641786
+    second: Coin_spritesheet_15
+  - first:
+      213: -5797792046924096075
+    second: Coin_spritesheet_16
+  - first:
+      213: 8803361473855705157
+    second: Coin_spritesheet_17
+  - first:
+      213: 5216976215952046122
+    second: Coin_spritesheet_18
+  - first:
+      213: 3936530297052019419
+    second: Coin_spritesheet_19
+  - first:
+      213: -3442727655527144083
+    second: Coin_spritesheet_20
+  - first:
+      213: 1231462452462461962
+    second: Coin_spritesheet_21
+  - first:
+      213: -2172477770843813943
+    second: Coin_spritesheet_22
+  - first:
+      213: 7817906452925993650
+    second: Coin_spritesheet_23
+  - first:
+      213: -8389207339259928470
+    second: Coin_spritesheet_24
+  - first:
+      213: 9223112756516795188
+    second: Coin_spritesheet_25
+  - first:
+      213: 8218746879976651916
+    second: Coin_spritesheet_26
+  - first:
+      213: -8336738009971159779
+    second: Coin_spritesheet_27
+  - first:
+      213: 8826500675891651209
+    second: Coin_spritesheet_28
+  - first:
+      213: 8657617964928510103
+    second: Coin_spritesheet_29
+  - first:
+      213: -6961876523969767745
+    second: Coin_spritesheet_30
+  - first:
+      213: 4717003808864249176
+    second: Coin_spritesheet_31
+  - first:
+      213: 5525327141713381349
+    second: Coin_spritesheet_32
+  - first:
+      213: 4575964580448183707
+    second: Coin_spritesheet_33
+  - first:
+      213: 1949154475327239920
+    second: Coin_spritesheet_34
+  - first:
+      213: -6996983223683707851
+    second: Coin_spritesheet_35
+  - first:
+      213: 2759518144532378974
+    second: Coin_spritesheet_36
+  - first:
+      213: 5095162444849179804
+    second: Coin_spritesheet_37
+  - first:
+      213: 8601400259377654094
+    second: Coin_spritesheet_38
+  - first:
+      213: -3628408797449802294
+    second: Coin_spritesheet_39
+  - first:
+      213: 6581839113766095547
+    second: Coin_spritesheet_40
+  - first:
+      213: -969291724278154295
+    second: Coin_spritesheet_41
+  - first:
+      213: -570850565916659906
+    second: Coin_spritesheet_42
+  - first:
+      213: -109081243748733748
+    second: Coin_spritesheet_43
+  - first:
+      213: -3618779001108795738
+    second: Coin_spritesheet_44
+  - first:
+      213: -3508171394562884631
+    second: Coin_spritesheet_45
+  - first:
+      213: 4199564955375557175
+    second: Coin_spritesheet_46
+  - first:
+      213: 1891388378930615062
+    second: Coin_spritesheet_47
+  - first:
+      213: 1162402857747657951
+    second: Coin_spritesheet_48
+  - first:
+      213: 6339975990530894979
+    second: Coin_spritesheet_49
+  - first:
+      213: -1558197314067599657
+    second: Coin_spritesheet_50
+  - first:
+      213: -8271800584185958050
+    second: Coin_spritesheet_51
+  - first:
+      213: -135927812876160163
+    second: Coin_spritesheet_52
+  - first:
+      213: -8347338633995948697
+    second: Coin_spritesheet_53
+  - first:
+      213: -508699675179049008
+    second: Coin_spritesheet_54
+  - first:
+      213: -2252538619143118804
+    second: Coin_spritesheet_55
+  - first:
+      213: -7542764873844732290
+    second: Coin_spritesheet_56
+  - first:
+      213: -1067118844628341206
+    second: Coin_spritesheet_57
+  - first:
+      213: -9159243749993267079
+    second: Coin_spritesheet_58
+  - first:
+      213: -5060349274673245967
+    second: Coin_spritesheet_59
+  - first:
+      213: -319066218089885451
+    second: Coin_spritesheet_60
+  - first:
+      213: 3018247147431504428
+    second: Coin_spritesheet_61
+  - first:
+      213: 4159330230182588818
+    second: Coin_spritesheet_62
+  - first:
+      213: 4859360385313044299
+    second: Coin_spritesheet_63
+  - first:
+      213: -3603700342916660214
+    second: Coin_spritesheet_64
+  - first:
+      213: -15585041493134774
+    second: Coin_spritesheet_65
+  - first:
+      213: -2063260019609139475
+    second: Coin_spritesheet_66
+  - first:
+      213: 590465571292016966
+    second: Coin_spritesheet_67
+  - first:
+      213: 8284487886732385147
+    second: Coin_spritesheet_68
+  - first:
+      213: 4421475984450817568
+    second: Coin_spritesheet_69
+  - first:
+      213: 2459363519240276270
+    second: Coin_spritesheet_70
+  - first:
+      213: 4778781233359960343
+    second: Coin_spritesheet_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72abe217bb9b31900800000000000000
+      internalID: 654070585607764519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863e3f1e67eb4d50800000000000000
+      internalID: 6722721328937186958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab12b01784b57f0800000000000000
+      internalID: -622824473105417502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186fd2cc79e646530800000000000000
+      internalID: 3847321579925927553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41eb8d69756da770800000000000000
+      internalID: 8623660433687699788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9e52617fe1db90800000000000000
+      internalID: -7218725457437484233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
