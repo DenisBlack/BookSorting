@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3767e715f75fa6b4ea15c4693eb0afff, type: 3}
+  m_Name: Level_L_15
+  m_EditorClassIdentifier: 
+  BookContainers:
+  - ContainerData: {fileID: 11400000, guid: aa5e76ab3da099f44bcb2f8d2a541eec, type: 2}
+    Position: {x: -1.5, y: 4.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: 468b217f5f5f76a40ad721570c44f661, type: 2}
+    Position: {x: 0, y: 4.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: f3ad560baeaa29140b988b2f86f0a9a0, type: 2}
+    Position: {x: 1.5, y: 4.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: db02984642000aa4dbc989de01594a59, type: 2}
+    Position: {x: -1.5, y: 0.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: 5977cb74145ca734f9b17923541e834e, type: 2}
+    Position: {x: 0, y: 0.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: 240a4f5d066ae3149b6ffb8d024ba2a9, type: 2}
+    Position: {x: 0.63, y: 2.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: 240a4f5d066ae3149b6ffb8d024ba2a9, type: 2}
+    Position: {x: -0.87, y: 2.65, z: 0.68}
+    Rotation: 180
+  - ContainerData: {fileID: 11400000, guid: 5e8e7515a73bafd4b8e1eb938bfc1301, type: 2}
+    Position: {x: 1.5, y: 0.65, z: 0.68}
+    Rotation: 180
+  AmountToWin: 6

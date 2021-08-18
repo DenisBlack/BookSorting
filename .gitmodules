@@ -1,0 +1,6 @@
+[submodule "Assets/Submodules/JBStateMachine"]
+	path = Assets/Submodules/JBStateMachine
+	url = https://github.com/JasonBright/JBStateMachine.git
+[submodule "Assets/Submodules/CommonUtilities"]
+	path = Assets/Submodules/CommonUtilities
+	url = https://github.com/JasonBright/CommonUtilities.git
