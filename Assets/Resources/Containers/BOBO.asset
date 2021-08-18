@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 894e29f49d066864c9b7669ca628f26e, type: 3}
+  m_Name: BOBO
+  m_EditorClassIdentifier: 
+  IsEmptyContainerData: 0
+  ContainerPrefab: {fileID: 1079867073427520038, guid: 088149dadfb427b4a8f0012d3df2915f,
+    type: 3}
+  ItemsList:
+  - {fileID: 11400000, guid: 8d65f1e027b015c40a1f6c7f7e1b2241, type: 2}
+  - {fileID: 11400000, guid: d78f25c4c5e0fe24d96cc8b9c4436ebd, type: 2}
+  - {fileID: 11400000, guid: 8d65f1e027b015c40a1f6c7f7e1b2241, type: 2}
+  - {fileID: 11400000, guid: d78f25c4c5e0fe24d96cc8b9c4436ebd, type: 2}
